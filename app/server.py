@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://docs.google.com/uc?export=download&id=1cdP9g-L3JL4yxW-6MbDgpFxvZLMREm0H'
+export_file_url = 'https://www.dropbox.com/s/37emle5l3sncmuq/interfaceFile.pkl?dl=1'
 export_file_name = 'interfaceFile.pkl'
 
 classes = ['FISH']
