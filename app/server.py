@@ -10,7 +10,7 @@ from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
 export_file_url = 'https://docs.google.com/uc?export=download&id=1cdP9g-L3JL4yxW-6MbDgpFxvZLMREm0H'
-export_file_name = 'export.pkl'
+export_file_name = 'interfaceFile.pkl'
 
 classes = ['FISH']
 path = Path(__file__).parent
